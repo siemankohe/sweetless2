@@ -26,4 +26,8 @@ btn2.addEventListener('click', () => {
     txt2.style.transition = 'all 0.3s ease-in-out';
 })
 
+const answerBtn = document.getElementById('gotoReplay');
+answerBtn.addEventListener('click', () => {
+  window.location.href = "replay.html";
+});
 
