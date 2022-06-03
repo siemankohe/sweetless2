@@ -150,6 +150,7 @@ body{
     position: relative;
     left: 34px;
     margin-bottom: 10px;
+    cursor: pointer;
 }
 
 #true-button {
@@ -160,4 +161,5 @@ body{
     position: relative;
     right: 30px;
     margin-bottom: 40px;
+    cursor: pointer;
 }
